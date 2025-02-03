@@ -8,7 +8,6 @@ public class A1 {
 	
 
 	public static void main(String[] args) throws FileNotFoundException {
-		A1 a1 = new A1();
 		String line1 = "";
 		List<String>list1 = new ArrayList<>();
 		File f1= new File("dictionary.txt");
